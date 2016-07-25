@@ -1,0 +1,24 @@
+{
+  "name": "aries",
+  "description": "talenta",
+  "main": "",
+  "authors": [
+    "gokulkrishh"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "array"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-toastr": "^2.0.0"
+  }
+}
